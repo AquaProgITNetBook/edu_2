@@ -1,0 +1,16 @@
+C:\Users\v-gol\source\repos\edu_2\edu_2\bin\Debug\edu_2.exe.config
+C:\Users\v-gol\source\repos\edu_2\edu_2\bin\Debug\edu_2.exe
+C:\Users\v-gol\source\repos\edu_2\edu_2\bin\Debug\edu_2.pdb
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.csprojAssemblyReference.cache
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\MainWindow.g.cs
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\App.g.cs
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2_MarkupCompile.cache
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2_MarkupCompile.lref
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\MainWindow.baml
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.g.resources
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.Properties.Resources.resources
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.csproj.GenerateResource.cache
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.csproj.CoreCompileInputs.cache
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.exe
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.pdb
+C:\Users\v-gol\source\repos\edu_2\edu_2\obj\Debug\edu_2.csproj.CopyComplete
